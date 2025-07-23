@@ -50,7 +50,7 @@ Este projeto é um aplicativo de player de música desenvolvido em Python utiliz
 
 <h2 align="center">⚙️ Instalação</h2>
 
-```bash
+<code>bash
 # Clone o repositório
 git clone https://github.com/Allison-Bitteti/player-musica.git
 
@@ -66,6 +66,7 @@ pip install -r requirements.txt
 
 # Execute
 python app.py
+</code>
 
 <h2 align="center">Autor</h2>
 <p align="center"><a href="https://github.com/Allison-Bitteti">Allison Bitteti</a></p>
