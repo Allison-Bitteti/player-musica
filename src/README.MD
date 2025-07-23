@@ -13,7 +13,7 @@ Este projeto é um aplicativo de player de música desenvolvido em Python utiliz
     <li>Organização modular do projeto</li>
 </ul>
 
-<h2 align="center">🖼️ Interface</a>
+<h2 align="center">🖼️ Interface</h2>
 
 <img src="assets/preview.png" alt="Preview do App" width="300"/>
 
@@ -30,19 +30,20 @@ Este projeto é um aplicativo de player de música desenvolvido em Python utiliz
 
 <pre>
 📦 player-musica
-├── app.py # Arquivo principal
-├── config.py # Configurações gerais
-├── ui/
-│ └── musicPlayerUI.py # Interface gráfica (UI)
-├── player/
-│ └── player.py # Classe Player com Pygame
-├── utils/
-│ └── diretory.py # Buscar músicas na pasta
-├── metadados/
-│ └── metadadosMusic.py # Capa do álbum
-├── assets/
-│ └── default_album.png # Imagem padrão
-└── requirements.txt # Dependências
+└── src
+    ├── app.py # Arquivo principal
+    ├── config.py # Configurações gerais
+    ├── ui/
+    │ └── musicPlayerUI.py # Interface gráfica (UI)
+    ├── player/
+    │ └── player.py # Classe Player com Pygame
+    ├── utils/
+    │ └── diretory.py # Buscar músicas na pasta
+    ├── metadados/
+    │ └── metadadosMusic.py # Capa do álbum
+    ├── assets/
+    │ └── default_album.png # Imagem padrão
+    └── requirements.txt # Dependências
 </pre>
 
 <h2 align="center">⚙️ Instalação</h2>
