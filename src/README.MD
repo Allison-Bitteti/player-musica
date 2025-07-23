@@ -15,7 +15,7 @@ Este projeto é um aplicativo de player de música desenvolvido em Python utiliz
 
 <h2 align="center">🖼️ Interface</h2>
 
-<img src="assets/preview.png" alt="Preview do App" width="300"/>
+<img src="assets/preview.png" alt="Preview do App" width="300" align="center"/>
 
 <h2 align="center">🛠️ Tecnologias utilizadas</h2>
 
