@@ -66,3 +66,6 @@ pip install -r requirements.txt
 
 # Execute
 python app.py
+
+<h2 align="center">Autor</h2>
+<p align="center"><a href="https://github.com/Allison-Bitteti">Allison Bitteti</a></p>
